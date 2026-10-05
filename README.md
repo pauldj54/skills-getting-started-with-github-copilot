@@ -10,7 +10,15 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/pauldj54/skills-getting-started-with-github-copilot/issues/1)
 
+## Testing
+
+Install the project dependencies and run the backend test suite:
+
+```bash
+python -m pip install -r requirements.txt
+python -m pytest
+```
+
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
